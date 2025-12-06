@@ -14,7 +14,7 @@
 - 🎯 Currently deepening my knowledge in **backend architecture**, **Redis**, and **cloud deployment workflows**  
 - 🔍 Strong interest in automation, system performance, and real-time application design  
 - 🌱 Firm believer in clean code, maintainable systems, and continuous improvement  
-- 🚀 Always experimenting with new ideas — whether it's AI, 3D visuals, or developer tools  
+- 🚀 Always experimenting with new ideas, whether it's AI, 3D visuals, or developer tools  
 
 ---
 
