@@ -2,7 +2,7 @@
 <h3 align="center">20 y/o Developer • AI Tinkerer • Full-Stack Fanatic</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=600&lines=I+write+code+that+works+(usually);Building+AI+%26+Full-Stack+projects+for+fun;Professionally+breaking+and+fixing+my+own+apps;Future+7-digit+earner+in+the+making">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=600&lines=I+write+code+that+works+(usually);Building+AI+%26+Full-Stack+projects+for+fun;Professionally+breaking+and+fixing+my+own+apps;">
 </p>
 
 ---
