@@ -27,12 +27,12 @@
 
 ### **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,nextjs,threejs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,nextjs" />
 </p>
 
 ### **Systems, Tools & Dev Utilities**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,bash,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,bash" />
 </p>
 
 ### **Cloud & Databases**
@@ -80,7 +80,6 @@ Recommendation algorithm so good it almost convinced me to buy my own project.
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh1010x">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=divyansh1010x&show_icons=true">
 </p>
 
 ---
