@@ -74,16 +74,6 @@ Recommendation algorithm so good it almost convinced me to buy my own project.
 
 ---
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh1010x">
-</p>
-
----
-
 ## ✨ The “Give me internship” Section
 
 If you're looking for someone who:
