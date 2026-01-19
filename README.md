@@ -74,17 +74,6 @@ Recommendation algorithm so good it almost convinced me to buy my own project.
 
 ---
 
-## ✨ The “Give me internship” Section
-
-If you're looking for someone who:
-- learns fast  
-- builds faster  
-- breaks things the fastest but fixes them even faster  
-
-…then hi. I’m available 👋
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
