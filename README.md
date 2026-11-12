@@ -77,7 +77,7 @@ Recommendation algorithm so good it almost convinced me to buy my own project.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/divyansh-maheshwari-832b992a2/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/divyansh-maheshwari-1010x/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/divyansh_1010/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://github.com/divyansh1010x"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
